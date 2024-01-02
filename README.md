@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Fave-Dolapo
-- 👀 I’m interested in Front end and Back end development 
-- 🌱 I’m currently learning Front end 
+- 👋 Hi, I’m @Fave-Dolapo, A passionate Programming Student. My journey in the world of technology and coding has been exciting and ever-evolving.
+- 👀 I’m interested in Full Stack Development. 
+- 🌱 I’m currently learning Front-End Development and always exploring new technologies and looking for opportunities to grow.
+💬 **Let's Connect:**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me favourolugbenga27@gmail.com
 
